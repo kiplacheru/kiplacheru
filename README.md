@@ -1,25 +1,42 @@
-<h1 align="center">Awesome GitHub Profile README
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/Marv0Sang/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/Marv0Sang" ><img src="https://img.shields.io/twitter/follow/Marv0Sang.svg?style=social" /> </a>
-<br>
+# Project Name
 
-<i>A curated list of awesome Github Profile READMEs</i>
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/kiplacheru/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/kiplacheru/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/kiplacheru/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/kiplacheru/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kiplacheru/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/kiplacheru/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/kiplacheru/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+## Project Overview
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/Marv0Sang) to help it improve!</i>
+## Technologies Used
 
-</div>
+- **C/AL (Dynamics NAV):**
+ 
+  
+- **AL (Dynamics 365 Business Central):**
+  
+
+## Getting Started
+
+### Prerequisites
+
+
+
+### Installation
+
+
+
+### Development Workflow
+
+
+
+## Contribution Guidelines
+
+If you would like to contribute to the project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+4. Ensure that your code follows the coding standards.
+5. Update documentation if necessary.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
