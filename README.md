@@ -13,8 +13,8 @@
 
 - 💼 ERP Solutions Developer at **Coretec Solutions Africa**  
 - 🔭 Currently leading development on **Neemeka BC240 Project**  
-- 🧠 Specialized in **Microsoft Dynamics 365 Business Central** with **AL and C/AL**  
-- 🤝 Open to collaboration on fintech, SACCO automation, and digital transformation projects
+- 🧠 Specialized in **Microsoft Dynamics 365 Business Central** using **AL and C/AL**  
+- 🤝 Open to collaboration on SACCO automation, ERP systems, and digital transformation projects
 
 ---
 
@@ -30,6 +30,8 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center"><b>Most used languages: AL and C/AL</b></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dsang&show_icons=true&theme=radical&count_private=true" alt="Dennis Sang GitHub stats" />
