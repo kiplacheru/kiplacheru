@@ -32,8 +32,8 @@
 ### 📌 Featured Projects
 
 - 🟢 [Neemeka BC240](https://github.com/CoreTecDevelopers/NEEMEKA) – SACCO management for Kwale County  
-- 🔵 [STIMA](https://github.com/CoreTecDevelopers/STIMA) – Dynamics 365 BC implementation for Stima Sacco  
-- 🟣 [TRAMOM](https://github.com/CoreTecDevelopers/TRAMOM) – Transport & Operations Management  
+- 🔵 [STIMA](https://github.com/CoreTecDevelopers/STIMA) – Stima Sacco, established in 1974, is one of Kenya's prominent Savings and Credit Cooperative Societies (SACCOs). Initially founded to serve employees of the Kenya Power and Lighting Company.  
+- 🟣 [TRAMOM](https://github.com/CoreTecDevelopers/TRAMOM) – Tramom Sacco is a saving and credit society, whose core objective is to afford members an opportunity to save their hard earned money and avail credit at at competitive interest rates.  
 
 ---
 
@@ -58,7 +58,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: **dsang@coretec.co.ke**  
-- 💼 GitHub: [github.com/dsang](https://github.com/dsang)  
+- 💼 GitHub: [github.com/dsang](https://github.com/kiplacheru)  
 - 🔗 LinkedIn: [linkedin.com/in/your-link-here](https://linkedin.com/in/your-link-here)
 
 ---
