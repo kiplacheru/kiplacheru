@@ -57,8 +57,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [Company's email/dsang](dsang@coretec.co.ke)
-- 📧 Gmail: [Personal email/dsang](sangdennis07@gmail.com) 
+- 📧 Email: **dsang@coretec.co.ke**
+- 📧 Gmail: **sangdennis07@gmail.com** 
 - 💼 GitHub: [github.com/dsang](https://github.com/kiplacheru)  
 - 🔗 LinkedIn: [linkedin.com/in/dsang](www.linkedin.com/in/dennis-sang-bb987912)
 
