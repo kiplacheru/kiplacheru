@@ -18,13 +18,6 @@
 
 ---
 
-## ☕ Support
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
-
----
-
 ### ⚙️ Tech Stack
 
 ![AL Language](https://img.shields.io/badge/AL-Business_Central-ff8c00?style=for-the-badge&logo=microsoft)
@@ -68,6 +61,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 - 📧 Gmail: **sangdennis07@gmail.com** 
 - 💼 GitHub: [github.com/dsang](https://github.com/kiplacheru)  
 - 🔗 LinkedIn: **www.linkedin.com/in/dennis-sang-bb987912**
+
+---
+
+## ☕ Support
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
