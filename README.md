@@ -41,6 +41,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsang&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
 </p>
 
+### 📊 GitHub Usage Snapshot
+
+<p align="center"><b>Most Used Languages: AL and C/AL</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AL-Language-orange?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/CAL-Dynamics_NAV-blue?style=for-the-badge&logo=microsoft" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsang&show_icons=true&theme=radical&count_private=true" alt="Dennis Sang GitHub stats" />
+</p>
+
+
 ---
 
 ### 📌 Featured Projects
