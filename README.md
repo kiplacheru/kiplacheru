@@ -60,7 +60,7 @@
 - 📧 Email: **dsang@coretec.co.ke**
 - 📧 Gmail: **sangdennis07@gmail.com** 
 - 💼 GitHub: [github.com/dsang](https://github.com/kiplacheru)  
-- 🔗 LinkedIn: [linkedin.com/in/dsang](www.linkedin.com/in/dennis-sang-bb987912)
+- 🔗 LinkedIn: **www.linkedin.com/in/dennis-sang-bb987912**
 
 ---
 
